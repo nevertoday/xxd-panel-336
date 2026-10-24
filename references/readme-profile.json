@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 336｜Axial Spirit Seal: keeps the photo and distils its mood into one small metaphysical memory mark — not the event itself but an archetype such as a light source, a doorway, a path or one tiny lone silhouette, drawn into nested frames along a central axis that funnel the eye inward, with wide silent whitespace, restrained print-like or ancient-seal lines with slight hand error, film-like soft diffusion and halation, a near-monochrome palette of deep indigo, midnight blue, tinted black, ivory and soft grey-violet, and only a few tiny inscription-like words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-336 or asks for a metaphysical emblem, liminal seal, sacred minimalism or axial nested-frame symbol from a photo.",
+  "short_description": "中轴神印：把照片收成中轴嵌套框架里一个小剪影、一束光的近单色形而上印记",
+  "zh-CN": {
+    "name": "中轴神印",
+    "tagline": "把照片收成中轴和层层框架里的一枚安静、神秘的形而上小印章。",
+    "look": "画面不讲照片里发生了什么，只留下一个原型：一束光源、一道入口、一条路，或一个很小的孤独剪影。几层几何框架沿中轴一层套一层，把视线收向深处，主体缩得很小，四周是大片沉默的留白。线条像版画或古老印记，克制、略带手工误差，带一点胶片般的柔光和光晕。颜色接近单色，深靛蓝、午夜蓝、带色调的黑、象牙白和灰紫，白像光在扩散。只有零星几个像铭文或档案笔记的小字。",
+    "traits": [
+      "形而上极简",
+      "中轴嵌套",
+      "剪影",
+      "神圣留白",
+      "记忆印章"
+    ],
+    "good": [
+      "空间感强、人很小的照片：走廊尽头的人、站在门口的背影、海边独行",
+      "有光源、入口或路径的画面：窗光、隧道、楼梯、一盏路灯",
+      "安静、带一点孤独或等待感的瞬间，想做成神秘的纪念印记"
+    ],
+    "poor": [
+      "需要看清人物、表情或具体事件的照片，比如合影、聚会、证件照",
+      "色彩热闹、元素繁多的街景和商品图，会被删到只剩氛围",
+      "想要奇幻场景、科幻海报、商业 Logo 或 3D、HDR 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Axial Spirit Seal",
+    "tagline": "Distils your photo into one quiet, mysterious seal set on a central axis of nested frames.",
+    "look": "The design does not retell what happened in the photo; it keeps one archetype: a light source, a doorway, a path or a single tiny lone silhouette. Geometric frames nest inside each other along a central axis, funnelling the eye inward, with the subject kept very small in wide, silent empty space. Lines feel like a print or an old seal, restrained with slight hand error, softened by film-like diffusion and halation. Colour is close to monochrome, deep indigo, midnight blue, tinted black, ivory and soft grey-violet, with white that glows like spreading light. Only a few tiny words appear, like an inscription or an archive note.",
+    "traits": [
+      "Metaphysical minimalism",
+      "Nested axis",
+      "Silhouette",
+      "Sacred whitespace",
+      "Memory seal"
+    ],
+    "good": [
+      "Photos with a strong sense of space and a small figure: someone at the end of a corridor, a back in a doorway, a lone walk by the sea",
+      "Images with a light source, opening or path: window light, a tunnel, a staircase, a single streetlamp",
+      "Quiet moments with a sense of solitude or waiting that you want as a mysterious keepsake mark"
+    ],
+    "poor": [
+      "Photos where people, expressions or a specific event must be clear, such as group shots, parties or ID photos",
+      "Busy, colourful street scenes and product images, which get pared down to mood alone",
+      "Requests for a fantasy scene, sci-fi poster, commercial logo, 3D or HDR look"
+    ]
+  },
+  "ja": {
+    "name": "中軸の神印",
+    "tagline": "写真を、中軸と入れ子の枠に置かれた静かで神秘的な形而上の小さな印にまとめます。",
+    "look": "写真で何が起きたかは語らず、一つの原型だけを残します。一筋の光源、一つの入口、一本の道、あるいはごく小さな孤独なシルエットです。幾何学的な枠が中軸に沿って幾重にも入れ子になり、視線を奥へと導きます。主役はとても小さく、周りには広く沈黙した余白が広がります。線は版画や古い印のように控えめで、わずかな手のぶれがあり、フィルムのような柔らかなにじみとハレーションを帯びます。色はほぼ単色で、深いインディゴ、ミッドナイトブルー、色味を帯びた黒、アイボリー、柔らかなグレーバイオレット。白は光が広がるように見えます。銘文や記録メモのような小さな文字がわずかに添えられるだけです。",
+    "traits": [
+      "形而上ミニマリズム",
+      "中軸の入れ子",
+      "シルエット",
+      "神聖な余白",
+      "記憶の印章"
+    ],
+    "good": [
+      "空間が大きく人が小さい写真：廊下の先の人、戸口の後ろ姿、海辺をひとり歩く人",
+      "光源、入口、道がある場面：窓の光、トンネル、階段、一本の街灯",
+      "静かで少し孤独や待つ気配のある瞬間を、神秘的な記念の印にしたいとき"
+    ],
+    "poor": [
+      "人物、表情、具体的な出来事をはっきり見せたい写真：集合写真、パーティー、証明写真",
+      "色が賑やかで要素の多い街並みや商品写真（雰囲気だけに削られてしまいます）",
+      "ファンタジーの場面、SF ポスター、商業ロゴ、3D や HDR の仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "중축 신인",
+    "tagline": "사진을 중심축과 겹겹의 틀 안에 놓인 고요하고 신비로운 형이상학적 작은 인장으로 만듭니다.",
+    "look": "사진 속에서 무슨 일이 있었는지는 말하지 않고 원형 하나만 남깁니다. 한 줄기 광원, 하나의 입구, 한 갈래 길, 혹은 아주 작은 외로운 실루엣입니다. 기하학적 틀이 중심축을 따라 겹겹이 포개져 시선을 안쪽으로 모으고, 주인공은 아주 작게 놓이며 주변은 넓고 침묵하는 여백입니다. 선은 판화나 오래된 인장처럼 절제되어 있고 약간의 손 오차가 있으며, 필름 같은 부드러운 번짐과 헐레이션이 얹힙니다. 색은 거의 단색으로 짙은 인디고, 미드나이트 블루, 색조가 도는 검정, 아이보리, 부드러운 회보라색이며, 흰색은 빛이 퍼지는 듯 보입니다. 명문이나 기록 메모 같은 작은 글자 몇 개만 들어갑니다.",
+    "traits": [
+      "형이상학적 미니멀",
+      "중심축 중첩",
+      "실루엣",
+      "신성한 여백",
+      "기억의 인장"
+    ],
+    "good": [
+      "공간감이 크고 사람이 작은 사진: 복도 끝의 사람, 문간의 뒷모습, 바닷가를 홀로 걷는 사람",
+      "광원, 입구, 길이 있는 장면: 창빛, 터널, 계단, 가로등 하나",
+      "고요하고 약간의 외로움이나 기다림이 느껴지는 순간을 신비로운 기념 인장으로 남기고 싶을 때"
+    ],
+    "poor": [
+      "인물, 표정, 구체적 사건이 분명히 보여야 하는 사진: 단체 사진, 파티, 증명사진",
+      "색이 요란하고 요소가 많은 거리 풍경과 제품 사진(분위기만 남고 다 지워집니다)",
+      "판타지 장면, SF 포스터, 상업 로고, 3D나 HDR 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الختم الروحي المحوري",
+    "tagline": "يقطّر صورتك في ختم صغير هادئ وغامض يقوم على محور مركزي من أطر متداخلة.",
+    "look": "لا يروي التصميم ما حدث في الصورة، بل يحتفظ بنموذج أصلي واحد: مصدر ضوء، أو مدخل، أو طريق، أو ظلّ وحيد صغير جداً. تتداخل أطر هندسية بعضها داخل بعض على محور مركزي فتقود العين إلى العمق، ويبقى العنصر صغيراً جداً وسط فراغ واسع صامت. تبدو الخطوط كالحفر الطباعي أو الأختام القديمة، مقتصدة وفيها خطأ يد خفيف، مع انتشار ضوئي ناعم وهالة كما في الأفلام. الألوان قريبة من اللون الواحد: النيلي الداكن وأزرق منتصف الليل والأسود المشوب بلون والعاجي والرمادي البنفسجي الناعم، والأبيض يبدو كضوء ينتشر. لا تظهر إلا كلمات صغيرة قليلة تشبه نقشاً أو ملاحظة في أرشيف.",
+    "traits": [
+      "تقليلية ميتافيزيقية",
+      "محور متداخل",
+      "ظلّ",
+      "فراغ مقدّس",
+      "ختم ذاكرة"
+    ],
+    "good": [
+      "صور فيها إحساس قوي بالمكان وشخص صغير: شخص في آخر ممرّ، ظهر عند باب، سير منفرد على شاطئ",
+      "مشاهد فيها مصدر ضوء أو فتحة أو طريق: ضوء نافذة، نفق، درج، عمود إنارة واحد",
+      "لحظات هادئة فيها شيء من الوحدة أو الانتظار تريدها علامة تذكارية غامضة"
+    ],
+    "poor": [
+      "صور يجب أن يظهر فيها الأشخاص أو التعابير أو حدث بعينه بوضوح، مثل الصور الجماعية والحفلات وصور الهوية",
+      "مشاهد شوارع مزدحمة بالألوان وصور المنتجات، إذ تُختزل إلى مجرد أجواء",
+      "طلب مشهد خيالي أو ملصق خيال علمي أو شعار تجاري أو مظهر ثلاثي الأبعاد أو HDR"
+    ]
+  }
+}

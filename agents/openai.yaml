@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 336"
-  short_description: "中轴神印：上半保留原照，下半把主体收成中轴嵌套里的形而上小印章"
-  default_prompt: "Use $xxd-panel-336 to transform my photograph following the complete canonical source brief."
+  short_description: "中轴神印：把照片收成中轴嵌套框架里一个小剪影、一束光的近单色形而上印记"
+  default_prompt: "Use $xxd-panel-336 to turn my photo into Axial Spirit Seal artwork."

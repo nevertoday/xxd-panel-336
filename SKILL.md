@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-336
-description: "Create XXD Panel 336 raster artwork: a faithful photograph paired with one metaphysical seal on a central axis, nested frames around a small silhouette. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-336 or asks for this 中轴神印 style."
+description: "XXD Panel 336｜Axial Spirit Seal: keeps the photo and distils its mood into one small metaphysical memory mark — not the event itself but an archetype such as a light source, a doorway, a path or one tiny lone silhouette, drawn into nested frames along a central axis that funnel the eye inward, with wide silent whitespace, restrained print-like or ancient-seal lines with slight hand error, film-like soft diffusion and halation, a near-monochrome palette of deep indigo, midnight blue, tinted black, ivory and soft grey-violet, and only a few tiny inscription-like words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-336 or asks for a metaphysical emblem, liminal seal, sacred minimalism or axial nested-frame symbol from a photo."
 ---
 
 # XXD Panel 336
